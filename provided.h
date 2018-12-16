@@ -4,6 +4,12 @@
 #include <string>
 #include <vector>
 
+
+/*
+This header file was provided in the development of this project.  It merely regulated how the classes were to be developed.
+The <className>Impl were used to make grading easier.
+*/
+
 class TokenizerImpl;
 
 class Tokenizer
